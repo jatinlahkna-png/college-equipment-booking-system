@@ -1,0 +1,11 @@
+
+# Keep database credentials private
+/includes/db.php
+
+# Ignore private configuration files
+.env
+
+# Ignore temporary files
+*.log
+.DS_Store
+Thumbs.db
